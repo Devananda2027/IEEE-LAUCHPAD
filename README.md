@@ -19,6 +19,8 @@ Kerala’s tech ecosystem is evolving into a vibrant, inclusive space that nurtu
  Active IEEE MEMBER,IEEE SCT SB
 
   #### Competitive website profiles
-  LinkedIn : https://www.linkedin.com/in/deva-nanda-s-j-80a6422b8
-  Github :
+  LinkedIn : https://www.linkedin.com/in/deva-nanda-s-j-80a6422b8 
+  
+  Github :  https://github.com/Devananda2027
+  
   tryhackme : https://tryhackme.com/p/devalinux
