@@ -1,6 +1,6 @@
 # Devananda SJ
 ### About Me  
-Hi, I’m Devananda SJ, an 3rd yr ECE  student at SCTCE TVM who’s always curious about how tech can shape the world around us.
+Hi, I’m Devananda SJ, an 2nd yr ECE  student at SCTCE TVM who’s always curious about how tech can shape the world around us.
 My interests stretch beyond the screen — into the embedded systems and IoT world, where software meets hardware, and into the realm of cybersecurity, where every vulnerability is a puzzle waiting to be solved. Whether it’s building interactive web apps or tinkering with microcontrollers, I thrive at the intersection of creativity and logic.
 I believe that real innovation comes from collaboration — not competition. That’s why I value friends who share not just skills but sincerity, curiosity, and a desire to build something real in this noisy world. For me, technology is a tool to understand the world better, not escape it. I’m here to learn continuously, share what I know, and contribute to building a smarter, more connected, and secure future.
 
